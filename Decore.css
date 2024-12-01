@@ -1,0 +1,65 @@
+body {
+  background-image: url(https://img.freepik.com/premium-vector/dark-neon-hexagon-gaming-wallpaper-background_92086-863.jpg);
+}
+.topic {
+  text-align: center;
+  font-size: 30px;
+  color: #046fff;
+  text-shadow: 0px 0px 10px #ff0088, 0px 0px 20px #ff001e;
+}
+.btn {
+  height: 100px;
+  width: 100px;
+  font-size: 90px;
+  background-color: antiquewhite;
+  color: black;
+}
+table {
+  display: flexbox;
+  margin: auto;
+  box-shadow: 0px 0px 20px red, 0px 0px 40px red;
+  border-color: red;
+}
+
+.new_btn {
+  height: 50px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 20px #046fff, 0px 0px 40px #046fff;
+  border-color: #046fff;
+  font-size: 20px;
+  background-color: black;
+  color: bisque;
+  margin-top: 20px;
+}
+
+.reset_btn {
+  height: 50px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 20px red, 0px 0px 40px red;
+  border-color: red;
+  font-size: 20px;
+  background-color: black;
+  color: bisque;
+}
+
+.game {
+  text-align: center;
+  padding-top: 40px;
+}
+
+#msg {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 40px;
+  color: #046fff;
+  text-shadow: 0px 0px 10px #ff0088, 0px 0px 20px #ff001e;
+}
+
+.hide {
+  display: none;
+}
+.msg_container {
+  text-align: center;
+}
